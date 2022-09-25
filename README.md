@@ -20,4 +20,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuhan20&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://activity-graph.herokuapp.com/graph?nuhan20&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
