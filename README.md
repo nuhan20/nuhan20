@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning WebTech and SE.
 - 👯 I’m looking to collaborate on AI.
-- 📫 How to reach me: <a href="https://www.facebook.com/dig.ontoh1516/"> Nuhan Ahmed Digonto </a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/nuhan-digonto-885449207"> Nuhan Ahmed Digonto "Linkedin" </a>
+- 📫 How to reach me: <a href="https://www.facebook.com/dig.ontoh1516/"> Nuhan Ahmed Digonto "Facebook" </a>
 
 <br>
 
