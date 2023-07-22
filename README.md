@@ -18,6 +18,6 @@
 
 ![Digonto's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuhan20&show_icons=true&theme=trasparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuhan20&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuhan20&theme=traspanet&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
