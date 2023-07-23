@@ -15,7 +15,7 @@
 <br>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nuhan20&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nuhan20&theme=light)](https://git.io/streak-stats)
 
 ![Digonto's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuhan20&show_icons=true&theme=trasparent)
 
