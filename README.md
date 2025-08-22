@@ -21,7 +21,6 @@
 ### 🚀 **About Me**
 - 💼 **COO & Co-Founder** at Orbit25
 - 💼 **TechOps Manager** at SBS WireOne
-- 🌱 **Currently Learning:** Web Technologies & Software Engineering  
 - 🤝 **Looking to Collaborate:** AI/ML Projects & Open-Source  
 - 💡 **Interests:** Full-Stack Development, Neural Networks, Automation  
 - ⚡ **Fun Fact:** I can solve a Rubik's Cube in under 2 minutes!  
