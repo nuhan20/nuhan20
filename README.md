@@ -19,8 +19,8 @@
 ---
 
 ### 🚀 **About Me**
-- 💼 **COO & Co-Founder** at Orbit25
-- 💼 **TechOps Manager** at SBS WireOne
+- 💼 **COO & Co-Founder** at Orbit25  
+- 💼 **TechOps Manager** at SBS WireOne  
 - 🤝 **Looking to Collaborate:** AI/ML Projects & Open-Source  
 - 💡 **Interests:** Full-Stack Development, Neural Networks, Automation  
 - ⚡ **Fun Fact:** I can solve a Rubik's Cube in under 2 minutes!  
@@ -29,13 +29,13 @@
 
 ### 📊 **GitHub Stats**
 <div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=nuhan20&theme=nightowl&hide_border=true&border_radius=10&background=0D1117&stroke=7A3CE8&ring=DD64F7&fire=DD64F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=DD64F7)
-  
-  ![Digonto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuhan20&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=7A3CE8&icon_color=DD64F7&text_color=FFFFFF)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuhan20&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=7A3CE8&text_color=FFFFFF)
-  
+
+  <img src="https://streak-stats.demolab.com?user=nuhan20&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" width="90%"/>
+
+  <img src="https://github-readme-stats-nuhan20.vercel.app/api?username=nuhan20&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="90%"/>
+
+  <img src="https://github-readme-stats-nuhan20.vercel.app/api/top-langs/?username=nuhan20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="90%"/>
+
 </div>
 
 ---
