@@ -19,11 +19,11 @@
 ---
 
 ### 🚀 **About Me**
+- 💼 **CTO & Co-Founder** at Shekhabo
 - 💼 **COO & Co-Founder** at Orbit25
 - 💼 **TechOps Manager** at SBS WireOne
 - 🤝 **Looking to Collaborate:** AI/ML Projects & Open-Source  
-- 💡 **Interests:** Full-Stack Development, Neural Networks, Automation  
-- ⚡ **Fun Fact:** I can solve a Rubik's Cube in under 2 minutes!  
+- 💡 **Interests:** Full-Stack Development, Neural Networks, Automation    
 
 ---
 
